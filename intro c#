@@ -1,0 +1,25 @@
+main
+	int edad = 50
+	string nombre
+	bool =FALSO
+
+ if edad => 18
+{
+Mostar "nombre puede conducir"
+}
+else 
+{
+Mostar "nombre no tiene licencia"
+}
+finif
+
+if tieneLicencia == true
+{
+Mostar "nombre tiene licencia"
+}
+else  
+{
+	Mostar "nombre no tiene licencia"
+}
+finif
+finMain
